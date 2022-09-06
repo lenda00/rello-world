@@ -1,6 +1,6 @@
-# ReScript Project Template
+# rello-world
 
-The only official ReScript starter template.
+Just a simple Hello World in ReScript with React.
 
 ## Installation
 
@@ -12,10 +12,5 @@ yarn install
 
 - Build: `yarn build`
 - Clean: `yarn clean`
-- Build & watch: `yarn start`
-
-## Run
-
-```sh
-node src/Demo.bs.js
-```
+- Dev server: `yarn start`
+- ReScript watch: `yarn re:start`
