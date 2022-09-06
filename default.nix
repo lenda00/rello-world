@@ -5,5 +5,6 @@ pkgs.mkShell {
   buildInputs = [
     pkgs.nodejs-14_x
     pkgs.yarn
+    pkgs.python3
   ];
 }
