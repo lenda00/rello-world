@@ -6,7 +6,8 @@
     "subdirs" : true
   },
   "package-specs": {
-    "module": "es6-global"
+    "module": "es6-global",
+    "in-source": true
   },
   "suffix": ".mjs",
   "reason": { "react-jsx": 3 },
